@@ -74,7 +74,7 @@ You should now be in Chex Quest!  If you're not... Please make sure you followed
 
      Will automatically load "doom2.wad" if it is the only wad in the directory (except prboom.wad).
 
-     Launches through Homebrew Launcher (which I have gotton many more things to work on Homebrew than TWilightMenu++).
+     Launches through Homebrew Launcher (which I have gotten many more things to work on Homebrew than TWilightMenu++).
      
 * Cons
 
