@@ -34,7 +34,7 @@ Download the .3dsx and .smdh files
 
 Install PrBoom3ds:
 
-Put the .3dsx, smdh, and the prboom.wad (prboom.wad from the.zip file that we downloaded in the beginning) files in /3ds/prboom3ds
+Put the .3dsx, smdh, and the prboom.wad (prboom.wad from the .zip file that we downloaded in the beginning) files in /3ds/prboom3ds
 
 Launch the Homebrew application, and there should be a new entry for "PrBoom3ds"
 
@@ -53,7 +53,7 @@ You should now be in Chex Quest!  If you're not... Please make sure you followed
 #### NOTES:
 
 * You can use PrBoom3ds, or DSDoom (I use both).  
-* ~~I am not sure if Chex Quest 3 works, but I will test it soon~~ Chex Quest 3 doesn't work, nor does Chex Quest 2 work. (chex2.wad & chex3.wad are IWADS, chex.wad is a PWAD so that's why it works.)  
+* ~~I am not sure if Chex Quest 3 works, but I will test it soon~~ Chex Quest 3 doesn't work, nor does Chex Quest 2 work. (chex2.wad & chex3.wad are PWADS, while chex.wad is a IWAD so that's why it works.)  
 * Thank me for getting it running on 3ds/2ds, but not for the program it runs on, that was all elhobbs. (https://www.github.com/elhobbs)  
 * You can use DSDoom works as well, just put in "doom2.wad" (chex.wad) into the folder where wads go in DSDoom.  
 
