@@ -4,7 +4,9 @@
 
 A guide on how to install Chex Quest with homebrew on a old/new 3ds/2ds.
 
-DO NOT BLAME ME IF YOUR DEVICE BECOMES BRICKED / RUINED, IF YOU TRY TO BLAME ME, I WILL LAUGH AT YOU.  
+**DISCLAIMER:**
+
+If this breaks your 3ds/2ds, kills your Nintendogs, or starts global thermonuclear war (in SimCity of course), do not blame me. You have been warned. If you break your device and blame me, I will point at you and laugh.  
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
