@@ -14,7 +14,7 @@ If this breaks your 3ds/2ds, kills your Nintendogs, or starts global thermonucle
 
 CFW with Homebrew (I use Luma3ds)
 
-To test if you have CFW hold down the start button while turning on the console, if you get a GM9 windows, you're good to go!
+To test if you have CFW hold down the start button while turning on the console, if you get a GM9 window, you're good to go!
 
 If nothing popped up, and you just booted normally, follow this guide: https://3ds.hacks.guide/get-started - **PLEASE READ EVERY STEP IN THE GUIDE**
 
@@ -54,22 +54,24 @@ You should now be in Chex Quest!  If you're not... Please make sure you followed
 
 #### NOTES:
 
-* You can use PrBoom3ds, or DSDoom (I use both).  
+* You can use PrBoom3ds, or DSDoom [SVN] (I use both).  
 * ~~I am not sure if Chex Quest 3 works, but I will test it soon~~ Chex Quest 3 doesn't work, nor does Chex Quest 2 work. (chex2.wad & chex3.wad are PWADS, while chex.wad is a IWAD so that's why it works.)  
 * Thank me for getting it running on 3ds/2ds, but not for the program it runs on, that was all elhobbs. (https://www.github.com/elhobbs)  
 * You can use DSDoom works as well, just put in "doom2.wad" (chex.wad) into the folder where wads go in DSDoom.  
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-PrBoom vs. DSDoom - A Comparison
+PrBoom vs. DSDoom SVN - A Comparison
 
-**DSDoom**
+**DSDoom SVN**
 
 * Pros 
      
      Can have dual screen mode.  
 
      Second screen can display a map, console, or nothing.
+     
+     
 
 * Cons
      
@@ -81,6 +83,12 @@ PrBoom vs. DSDoom - A Comparison
      
      There *is* a "Custom" wad option in the wad selection menu, but it doesn't work.  
      
+     Treats the top screen as the aspect ratio of a DS screen.
+     
+     Hasn't been in development since Jun 1, 2014.
+
+https://drive.google.com/file/d/0B5PbaEZg8neXWGZMTldWQ2w1RW8/edit
+     
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **PrBoom3ds**
@@ -91,11 +99,17 @@ PrBoom vs. DSDoom - A Comparison
 
      Launches through Homebrew Launcher (which I have gotten many more things to work on Homebrew than TWilightMenu++).  
      
+     Uses Fullscreen on the top screen.
+     
+     Latest version dates to Dec 21, 2019.
+     
 * Cons
 
      Dual screen, but just a virtual keyboard on the bottom.  
      
      Have to select "doom2.wad" from a list of wad files.  
+     
+https://github.com/elhobbs/prboom3ds/releases
      
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
