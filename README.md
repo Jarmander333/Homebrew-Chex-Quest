@@ -10,13 +10,79 @@ If this breaks your 3ds/2ds, kills your Nintendogs, or starts global thermonucle
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## FAQ:
+
+Why would you do this?
+
+- I was trying to find out if it was possible online, and couldn't find anything.  When I grabbed PrBoom3ds, and DSDoom, I remembered that Chex Quest was based on Doom 2's engine, so I compiled a giant guide for this.  
+
+Did you come up with all this?
+
+- I came up with the procedure, not the software.  
+
+When I go the the Mediafire link, and I download the .zip file, I get a virus warning.
+
+ - This is normal, just keep the file anyway, and continue with the guide.  False positives can happen.  
+
+I want to play Doom 2, and Chex Quest, can I do this without needing to change the file names each time I want to play either of them?
+
+ - I am not quite sure, I do not think you can unless the development on DSDoom continues, and the custom wads section is completely built.  Each time you want to launch them, I think you need to re-name them to "doom2.wad.  
+
+I want to do this on my Nintendo Switch, or other device, would I be able to do this?
+
+ - It may be possible, ~~but I have never tested it on any other device other than my 2DS~~ I have tested it on my SNES Classic, and it works on that, but that is not covered in this guide.  I am still not sure if it would work on Nintendo Switch or not.  It *may* be possible if there is PrBoom, or some other Doom engine for the platform.  
+
+I don't want to softmod/hardmod my device, can I still do this?
+
+ - No, due to the fact that you cannot just download PrBoom3ds/DSDoom from the Nintendo Store.  
+
+I have an Original 3DS/2DS, does the game work/run well on it?
+
+ - Actually the Original 3DS/2DS are the only 2 systems that I have tested!  I need someone to help me test the New 3DS/2DS, and yes, it runs just fine.  
+
+Do I need a specific brand of SD card?
+
+ - I just used the one that came with my 2DS, I don't think you need anything specific.  
+
+When I try to launch doom2.wad, I just get errors, no game launches...
+
+ - Try to read the error first, and try to see if you understand it.  If that doesn't work, then try to be sure that you have all the files that are required for this, and that chex.wad is named "doom2.wad".  
+
+I get a "Exception Error" when I try to startup PrBoom3ds/DSDoom, or when I try to launch Chex Quest, why is this?
+
+ - I noticed that this happens very rarely when you have a lower-end device, or a **very** old 3DS/2DS.  Try again, and see if it launches, if you still get the error, it may just be that your device isn't powerful enough.  
+
+I want to run Chex Quest 3 on my 3DS/2DS, can I do this?
+
+ - No.  Chex Quest 3 is a PWAD, while Chex Quest is an IWAD.  If you are not sure what a PWAD or an IWAD is, I can explain that here:
+     - PWAD - Short for Patch Wad are Patches to original IWADs, can be **much** smaller than an IWAD, and can include very little of the original game.  
+     - IWAD - short for Internal Wad are the full file themself, they are *normally* quite a bit bigger than a PWAD, and include all of the game files. 
+
+How big of an SD Card does this require?  
+
+ - I use the 4GB one that was in the 2DS when I got it.  I'd recommend **at least** 2GB for one.  
+
+I want to do this, but I don't want to wipe the data off of my 3DS/2DS's SD Card.  
+
+ - You do not need to wipe the data, you just need to create folders, and add some files.  
+
+Will I be banned for doing this?
+
+ - On a Original 3DS/2DS, No.  I am not sure about a New 3DS/2DS, but on a Nintendo Switch, you will most likely be banned for this (***Do not blame me if you get banned, you made a choice***).  
+
+I need additional help, where can I go?
+
+ - Join my discord server for this: https://discord.gg/VDbfe3pd.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Prerequisites
 
 CFW with Homebrew (I use Luma3ds)
 
 To test if you have CFW hold down the start button while turning on the console, if you get a GM9 window, you're good to go!
 
-If nothing popped up, and you just booted normally, follow this guide: https://3ds.hacks.guide/get-started - **PLEASE READ EVERY STEP IN THE GUIDE**
+If nothing popped up, and you just booted normally, follow this guide: https://3ds.hacks.guide/get-started - **PLEASE READ EVERY STEP IN THE GUIDE THORUOGHLY, AND I'D RECOMMED THIS VIDEO GUIDE - thttps://www.youtube.com/watch?v=miVDKgInzyg**
 
 ## Needed Files
 
@@ -111,6 +177,11 @@ https://drive.google.com/file/d/0B5PbaEZg8neXWGZMTldWQ2w1RW8/edit
      
 https://github.com/elhobbs/prboom3ds/releases
      
+     
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+If you need any help, go to the FAQ at the top, and see if that answers your question.  
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Bugs:
