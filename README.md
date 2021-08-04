@@ -54,7 +54,8 @@ I get a "Exception Error" when I try to startup PrBoom3ds/DSDoom, or when I try 
 
 I want to run Chex Quest 3 on my 3DS/2DS, can I do this?
 
- - No.  Chex Quest 3 is a PWAD, while Chex Quest is an IWAD.  If you are not sure what a PWAD or an IWAD is, I can explain that here:
+ ~~- No.  Chex Quest 3 is a PWAD, while Chex Quest is an IWAD.~~
+ - Yes! (~~Initially I was an idiot and didn't read enough!~~) in place of "prboom.wad", grab the "chex3.wad" from Chex Quest 3, and use that in place of prboom.wad, it needs to be named prboom.wad though (This also applies to a Chex Quest 2 pwad). If you are not sure what a PWAD or an IWAD is, I can explain that here:
      - PWAD - Short for Patch Wad are Patches to original IWADs, can be **much** smaller than an IWAD, and can include very little of the original game.  
      - IWAD - short for Internal Wad are the full file themself, they are *normally* quite a bit bigger than a PWAD, and include all of the game files. 
 
