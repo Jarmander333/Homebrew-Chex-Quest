@@ -122,7 +122,7 @@ You should now be in Chex Quest!  If you're not... Please make sure you followed
 #### NOTES:
 
 * You can use PrBoom3ds, or DSDoom [SVN] (I use both).  
-* ~~I am not sure if Chex Quest 3 works, but I will test it soon~~ Chex Quest 3 doesn't work, nor does Chex Quest 2 work. (chex2.wad & chex3.wad are PWADS, while chex.wad is a IWAD so that's why it works.)  
+* Chex Quest 2 & 3 work!  See the FAQ for more info.
 * Thank me for getting it running on 3ds/2ds, but not for the program it runs on, that was all elhobbs. (https://www.github.com/elhobbs)  
 * You can use DSDoom works as well, just put in "doom2.wad" (chex.wad) into the folder where wads go in DSDoom.  
 
